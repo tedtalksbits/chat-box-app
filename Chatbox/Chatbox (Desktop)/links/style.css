@@ -1,5 +1,5 @@
 :root{
-    --primary-color: #F06C00;
+    --primary-color: #ff6100;
     --grey:#696969;
     --logo: 'Heebo', sans-serif;
 }
@@ -25,7 +25,7 @@ body{
 .logo{
     font-size: 60px;
     color: var(--primary-color);
-    letter-spacing: 0;
+    letter-spacing: 4px;
     margin-bottom: 80px;
 }
 input{
